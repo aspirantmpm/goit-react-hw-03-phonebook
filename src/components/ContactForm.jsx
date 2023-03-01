@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Formik } from 'formik';
 import { nanoid } from 'nanoid';
 import propTypes from 'prop-types';
-import { MainForm, Button, Label, Input } from './style';
+import { MainForm, Button, Label, Input } from './GlobalStyle';
 
 export class ContactForm extends Component {
   handleSubmit = ({ name, number }, { resetForm }) => {

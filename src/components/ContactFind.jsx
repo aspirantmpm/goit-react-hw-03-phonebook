@@ -1,5 +1,5 @@
 import propTypes from 'prop-types';
-import { Find, FindInput, Label } from './style';
+import { Find, FindInput, Label } from './GlobalStyle';
 
 export const ContactFind = ({ filter, onFilter }) => {
   return (

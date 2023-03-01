@@ -1,5 +1,5 @@
 import propTypes from 'prop-types';
-import { Item, Button } from './style';
+import { Item, Button } from './GlobalStyle';
 
 export const ContactItem = ({ id, name, number, deleteContact }) => {
   return (

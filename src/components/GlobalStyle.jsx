@@ -13,7 +13,7 @@ export const MainForm = styled(Form)`
 
 export const Input = styled(Field)`
   outline: 0;
-  width: 350px;
+  width: 365px;
   margin-bottom: 10px;
   padding: 5px;
 `;
